@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-fond: #0F1214;
+  --color-surface: #171B1E;
+  --color-bordure: #23292D;
+  --color-bordure-forte: #3A4247;
+
+  --color-texte: #E8E6E1;
+  --color-texte-doux: #B4BCC1;
+  --color-texte-discret: #8D979D;
+
+  --color-accent: #F2A541;
+  --color-accent-fonce: #1A1206;
+
+  --color-risque-eleve: #FF8A6B;
+  --color-risque-moyen: #F2C14E;
+  --color-risque-faible: #9CC3DE;
+
+  --font-sans: var(--font-plex-sans);
+  --font-mono: var(--font-plex-mono);
+}
